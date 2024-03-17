@@ -40,7 +40,7 @@ Each sample in the train and test set has the following information:
 
 # Score
 
-- 0.77229
+- 0.77536
 
 # PyTorch practice
 
